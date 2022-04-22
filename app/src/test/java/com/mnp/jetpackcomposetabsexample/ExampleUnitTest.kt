@@ -1,4 +1,4 @@
-package com.mnp.jetpackcomposetabs
+package com.mnp.jetpackcomposetabsexample
 
 import org.junit.Test
 

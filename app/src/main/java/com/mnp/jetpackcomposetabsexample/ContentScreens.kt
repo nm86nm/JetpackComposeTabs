@@ -1,4 +1,4 @@
-package com.mnp.jetpackcomposetabs
+package com.mnp.jetpackcomposetabsexample
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column

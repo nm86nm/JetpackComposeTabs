@@ -1,4 +1,4 @@
-package com.mnp.jetpackcomposetabs.ui.theme
+package com.mnp.jetpackcomposetabsexample.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
